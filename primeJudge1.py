@@ -15,5 +15,9 @@ if pattarn==1:
   print("No")
 elif pattarn==0:
   print（ "はい"）
-。
-＃＃＃＃＃ 4例#######
+
+＃＃＃＃＃入力例#######
+7  Yes
+2  Yse
+10 No
+9878657631 エラー
